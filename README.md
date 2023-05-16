@@ -1,2 +1,2 @@
 # SpringEdu
-This is a project with completed Spring training tasks
+Это проект с выполенными заданиями с лекций и заданных на дом проектов.
